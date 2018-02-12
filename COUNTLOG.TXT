@@ -1,6 +1,0 @@
-how to create countlog.txt in repo
-$ touch countlog.txt
-$ git add countlog.txt
-$ gedit countlog.txt
-0
-http://justintadlock.com/web-design/counter
